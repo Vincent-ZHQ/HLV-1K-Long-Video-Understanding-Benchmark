@@ -1,4 +1,4 @@
-# <img src="static/images/hlv-1k.png" alt="HLV-1K" style="width:30px;height:20px;"> HLV-1K: A Large-scale Hour-Long Video Benchmark for Time-Specific Long Video Understanding
+# <img src="static/images/hlv-1k.png" alt="HLV-1K" style="width:40px;height:40px;"> HLV-1K: A Large-scale Hour-Long Video Benchmark for Time-Specific Long Video Understanding
 
 [arXiv](https://arxiv.org/submit/6108440/view)    [Code](https://github.com/Vincent-ZHQ/HLV-1K)
 
@@ -32,24 +32,24 @@ Accuracy scores on HLV-1K are presented on frame-level, within-event-level, cros
 Benchmark construction and examples.
 
 ### Benchmark Statistics
-<img src="static/images/HLV_1K_F00.jpg" alt="HLV-1K" style="width:900px;height:400px;"> 
+<img src="static/images/HLV_1K_F00.jpg" alt="HLV-1K" style="width:900px;height:380px;"> 
 
 HLV-1K: (a) Video category distribution, (b) Video duration distribution, and (c) Duration distribution of time-specific query.
 
 
-<img src="static/images/HLV_1K_F02.jpg" alt="HLV-1K" style="width:900px;height:300px;"> 
+<img src="static/images/HLV_1K_F02.jpg" alt="HLV-1K" style="width:900px;height:310px;"> 
 
 HLV-1K: Distribution of benchmark annotations.
 
 ### Benchmark Comparison
 
-<img src="static/images/datasets.png" alt="HLV-1K" style="width:900px;height:150px;"> 
+<img src="static/images/datasets.png" alt="HLV-1K" style="width:900px;height:160px;"> 
 
 ## Experiment Results
 
 ### Different Question Types
 
-<img src="static/images/HLV_1K_F03.jpg" alt="HLV-1K" style="width:900px;height:600px;"> 
+<img src="static/images/HLV_1K_F03.jpg" alt="HLV-1K" style="width:900px;height:580px;"> 
 
 Evaluation results of four representative MLLMs.
 
